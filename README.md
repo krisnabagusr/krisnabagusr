@@ -8,6 +8,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Software+Engineering+Student;Web+Developer+%40+Enuma+Tech;Building+Modern+%26+Next-Gen+Web+Applications;Passionate+Full-Stack+Explorer" alt="Typing SVG" />
   </a>
 
+  <!-- Cat Typing Pet Widget -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="Cat Coding Widget"/>
+  </p>
+
   <!-- Social Badges -->
   <p align="center">
     <a href="mailto:bagusganteng2443451@gmail.com">
@@ -35,7 +40,10 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="35%" align="center" valign="middle">
+      <img src="./images/INIGW.png" width="220" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" alt="Krisna Bagus Riyatno Photo"/>
+    </td>
+    <td width="65%" valign="top">
       <h3>🚀 Hi there! I'm Krisna Bagus Riyatno 👋</h3>
       <p>
         I am a dedicated <b>Vocational High School Student</b> specializing in <b>Software Engineering and Web Development</b> at <b>Enuma Tech</b>. I have a passion for designing interactive, clean, and efficient web applications.
@@ -48,11 +56,24 @@
         <li>🎯 <b>Interests:</b> Full-Stack Development, Modern UI/UX Design, Cyber Security & Open Source</li>
       </ul>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Mascot Animation"/>
-    </td>
   </tr>
 </table>
+
+---
+
+### ⚽ Highlights & Special Moments
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <img src="./images/meandronaldo.jpeg" width="450" style="border-radius: 15px; border: 2px solid #38BDF8;" alt="Krisna and Ronaldo"/>
+        <br/>
+        <sub><b>🐐 Once in a Lifetime Moment: Hanging out with CR7 (Cristiano Ronaldo)!</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -64,7 +85,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Technologies
+### 🛠️ Tech Stack & Technologies (3D & Isometric Badges)
 
 #### 🌐 Languages & Frontend Development
 <p>
@@ -83,6 +104,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
+---
+
+### 🐍 Contribution Eating Snake Animation
+
+> Automatically rendered via GitHub Actions ([`.github/workflows/snake.yml`](.github/workflows/snake.yml))
+
+<div align="center">
+  <img src="dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+</div>
 
 ---
 
@@ -110,7 +141,7 @@
 
 ---
 
-### 📊 GitHub Analytics & Streak Stats
+### 📊 GitHub Analytics & Streak Stats (Fixed Endpoints)
 
 <div align="center">
   <table border="0">
@@ -126,7 +157,8 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisnabagusr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="95%"/>
+  <!-- Fixed Streak Stats Endpoint using Demolab Mirror -->
+  <img src="https://streak-stats.demolab.com/?user=krisnabagusr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="95%"/>
 </div>
 
 ---
