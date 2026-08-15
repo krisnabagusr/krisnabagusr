@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/LEVEL-99%20DEV-FF007F?style=for-the-badge" alt="Level Badge"/>
   </p>
 
-  <!-- Animated Cat & Octocat Mascots -->
+  <!-- Animated Cat Mascot -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/footers/cat.gif" width="260" alt="Animated Pixel Cat Mascot"/>
+    <img src="./images/cat.gif" width="260" alt="Animated Bongo Cat Typing Keyboard Mascot"/>
   </p>
 
   <!-- Social Badges -->
@@ -103,7 +103,7 @@
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/footers/cat.gif" width="280" alt="Animated Pixel Cat Typing"/>
+        <img src="./images/cat.gif" width="280" alt="Animated Bongo Cat Typing Keyboard"/>
         <br/>
         <p style="color: #00F0FF; font-family: monospace; font-size: 13px; margin-top: 8px;"><b>CAT MASCOT: KEYBOARD OPERATOR</b></p>
       </td>
