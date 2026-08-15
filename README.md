@@ -39,6 +39,11 @@
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
     </a>
   </p>
+
+  <!-- Scroll For More Indicator -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/-%E2%96%BD%20SCROLL%20DOWN%20FOR%20SYSTEM%20TELEMETRY%20%E2%96%BD-00F0FF?style=for-the-badge&logoColor=white" alt="Scroll Down Indicator"/>
+  </p>
   
 </div>
 
@@ -90,6 +95,32 @@
       </td>
     </tr>
   </table>
+</div>
+
+<!-- Retro Pacman Line Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
+</p>
+
+### AUDIO: NOW PLAYING // CYBERPUNK SYNTHWAVE RADIO
+
+<div align="center">
+  <div style="border: 2px solid #8A2BE2; border-radius: 16px; padding: 14px; max-width: 520px; background: rgba(15, 23, 42, 0.9); box-shadow: 0 0 25px rgba(138, 43, 226, 0.4);">
+    <table border="0" width="100%">
+      <tr>
+        <td width="28%" align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95" alt="Lofi Beats Octocat"/>
+        </td>
+        <td width="72%" valign="middle" style="text-align: left; font-family: monospace;">
+          <p style="color: #00F0FF; margin: 0; font-weight: bold; font-size: 14px;">TRACK: Midnight Cyberpunk Coding Beats</p>
+          <p style="color: #FF007F; margin: 4px 0 0 0; font-size: 12px;">ARTIST: Lofi Synthwave Radio 24/7</p>
+          <p style="color: #8A2BE2; margin: 6px 0 0 0; font-size: 11px;">STATUS: PLAYING | 02:45 / 03:50</p>
+          <br/>
+          <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" height="15" alt="Audio Wave Visualizer"/>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 <!-- Retro Pacman Line Separator -->
@@ -150,12 +181,35 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### ACHIEVEMENTS: SYSTEM METRICS
+### MODULE: SKILL PROFICIENCY MATRIX
 
 <div align="center">
-  <a href="https://github.com/krisnabagusr">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krisnabagusr&theme=tokyonight" width="100%" alt="GitHub Profile Summary Card"/>
-  </a>
+  <table border="0" width="90%">
+    <tr>
+      <td width="30%" style="font-family: monospace; color: #00F0FF;"><b>Frontend Architecture</b></td>
+      <td width="70%">
+        <img src="https://geps.dev/progress/95?dangerColor=8A2BE2&warningColor=00F0FF&successColor=FF007F" width="100%" alt="Frontend Progress Bar"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" style="font-family: monospace; color: #00F0FF;"><b>Web Dev & React</b></td>
+      <td width="70%">
+        <img src="https://geps.dev/progress/92?dangerColor=8A2BE2&warningColor=00F0FF&successColor=FF007F" width="100%" alt="React Progress Bar"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" style="font-family: monospace; color: #00F0FF;"><b>Backend & SQL</b></td>
+      <td width="70%">
+        <img src="https://geps.dev/progress/88?dangerColor=8A2BE2&warningColor=00F0FF&successColor=FF007F" width="100%" alt="Backend Progress Bar"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" style="font-family: monospace; color: #00F0FF;"><b>UI/UX Engineering</b></td>
+      <td width="70%">
+        <img src="https://geps.dev/progress/90?dangerColor=8A2BE2&warningColor=00F0FF&successColor=FF007F" width="100%" alt="UI/UX Progress Bar"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Retro Pacman Line Separator -->
@@ -182,6 +236,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
+<!-- Retro Pacman Line Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
+</p>
+
+### QUOTE: DAILY DEVELOPER TELEMETRY
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Daily Tech Quote Card"/>
+</div>
 
 <!-- Retro Pacman Line Separator -->
 <p align="center">
