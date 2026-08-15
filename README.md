@@ -1,22 +1,24 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=220&section=header&text=KRISNA%20BAGUS%20RIYATNO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:FF007F&height=220&section=header&text=KRISNA%20BAGUS%20RIYATNO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=SYSTEM+STATUS%3A+ONLINE;CLASS%3A+SOFTWARE+ENGINEER+%40+ENUMA+TECH;LEVEL%3A+99+FULL-STACK+DEV;PASSION%3A+NEXT-GEN+WEB+ARCHITECTURE" alt="Typing SVG" />
   </a>
 
-  <!-- 3D Octocat Mascot & Badges -->
+  <!-- Visitor Counter & Gaming Rank Badges -->
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="160" alt="3D Octocat Coding Mascot"/>
-  </p>
-
-  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=krisnabagusr&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter"/>
     <img src="https://img.shields.io/badge/RANK-SSS%20SOFTWARE%20ENGINEER-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Rank Badge"/>
     <img src="https://img.shields.io/badge/GUILD-ENUMA%20TECH-8A2BE2?style=for-the-badge" alt="Guild Badge"/>
     <img src="https://img.shields.io/badge/LEVEL-99%20DEV-FF007F?style=for-the-badge" alt="Level Badge"/>
+  </p>
+
+  <!-- 3D Octocat Mascot -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="3D Octocat Mascot"/>
   </p>
 
   <!-- Social Badges -->
@@ -45,30 +47,50 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### SYSTEM: ABOUT USER
+### ASCII ART: TYPOGRAPHY HEADER
 
-<table>
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <div style="border: 2px solid #00F0FF; border-radius: 16px; padding: 6px; background: rgba(15, 23, 42, 0.9); box-shadow: 0 0 20px rgba(0, 240, 255, 0.4);">
-        <img src="./images/INIGW.png" width="220" style="border-radius: 10px;" alt="Krisna Bagus Riyatno Photo"/>
-      </div>
-    </td>
-    <td width="65%" valign="top">
-      <h3>SYSTEM OPERATOR: Krisna Bagus Riyatno</h3>
-      <p>
-        Software Engineering student specializing in Web Development at <b>Enuma Tech</b>. Dedicated to building high-performance, responsive web architectures and clean user interfaces.
-      </p>
-      <hr/>
-      <ul style="list-style-type: square;">
-        <li><b>CLASS:</b> Student & Web Developer @ Enuma Tech</li>
-        <li><b>LOCATION:</b> Central UNS (Kentingan, Jl. Ir. Sutami No.36A, Jebres, Surakarta, Jawa Tengah 57126)</li>
-        <li><b>TIMEZONE:</b> UTC -12:00</li>
-        <li><b>FOCUS:</b> Full-Stack Development, Cyber Security & UI/UX Engineering</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```text
+ _  _______  _____  ____  _        ____    _    ____ _   _ ____    ____  ______   _  _____ _  ______  
+| |/ /  _ \|_ _/ \/ ___|| |      / ___|  / \  / ___| | | / ___|  |  _ \|_ _/\ \ / // \_   _| |/ / ___| 
+| ' /| |_) || |\  /\___ \| |     | |  _  / _ \| |  _| | | \___ \  | |_) || |  \ V // _ \| | | ' /|  _|   
+| . \|  _ < | |/  \ ___) | |___  | |_| |/ ___ \ |_| | |_| |___) | |  _ < | |   | |/ ___ \| | | . \| |___  
+|_|\_\_| \_\___/_/\_\____/|_____|  \____/_/   \_\____|\___/|____/  |_| \_\___|  |_/_/   \_\_| |_|\_\_____| 
+```
+
+<!-- Retro Pacman Line Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
+</p>
+
+### TERMINAL: NEOFETCH SPECIFICATIONS
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="40%" align="center" valign="middle">
+        <div style="border: 2px solid #00F0FF; border-radius: 16px; padding: 6px; background: rgba(15, 23, 42, 0.9); box-shadow: 0 0 20px rgba(0, 240, 255, 0.4);">
+          <img src="./images/INIGW.png" width="220" style="border-radius: 10px;" alt="Krisna Bagus Riyatno Photo"/>
+        </div>
+      </td>
+      <td width="60%" valign="top">
+        <pre style="background: #0f172a; color: #00F0FF; padding: 15px; border-radius: 12px; border: 1px solid #8A2BE2; text-align: left; font-family: monospace;">
+<b>krisna@central-uns-kentingan</b>
+----------------------------
+<b>OS</b>: Cyberpunk Linux x86_64
+<b>Host</b>: Central UNS (Kentingan, Surakarta)
+<b>Kernel</b>: Krisna Bagus Riyatno v1.0
+<b>Uptime</b>: 99.9% Always Coding
+<b>Shell</b>: ZSH / Web Engineering
+<b>Guild</b>: Enuma Tech
+<b>Level</b>: 99 Full-Stack Developer
+<b>Rank</b>: SSS Software Engineer
+<b>Timezone</b>: UTC -12:00
+<b>Memory</b>: 64GB / Unlimited Creativity
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Retro Pacman Line Separator -->
 <p align="center">
@@ -90,7 +112,7 @@
         </div>
       </td>
       <td width="45%" align="center" valign="middle">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="CR7 Golden Motion Visual"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="CR7 Motion Visual"/>
         <p style="color: #00F0FF; font-family: monospace; font-size: 13px; margin-top: 8px;">
           SIUUU! GOAT MOMENT
         </p>
@@ -222,7 +244,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:FF007F&height=100&section=footer" width="100%" alt="Footer Banner"/>
   
   <sub><i>SYSTEM: DESIGNED FOR KRISNA BAGUS RIYATNO</i></sub>
 </div>
