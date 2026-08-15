@@ -77,10 +77,12 @@
 
 ---
 
-### 🏆 GitHub Profile Trophies
+### 🏆 GitHub Achievements & Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krisnabagusr&theme=tokyonight&no-bg=true&column=6&margin-w=15" width="100%" alt="GitHub Profile Trophies"/>
+  <a href="https://github.com/krisnabagusr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krisnabagusr&theme=tokyonight" width="100%" alt="GitHub Profile Summary Card"/>
+  </a>
 </div>
 
 ---
