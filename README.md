@@ -8,19 +8,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=SYSTEM+STATUS%3A+ONLINE;CLASS%3A+SOFTWARE+ENGINEER+%40+ENUMA+TECH;LEVEL%3A+99+FULL-STACK+DEV;PASSION%3A+NEXT-GEN+WEB+ARCHITECTURE" alt="Typing SVG" />
   </a>
 
-  <!-- Gaming Rank Badges -->
+  <!-- 3D Octocat Mascot & Badges -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="160" alt="3D Octocat Coding Mascot"/>
+  </p>
+
   <p align="center">
     <img src="https://img.shields.io/badge/RANK-SSS%20SOFTWARE%20ENGINEER-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Rank Badge"/>
     <img src="https://img.shields.io/badge/GUILD-ENUMA%20TECH-8A2BE2?style=for-the-badge" alt="Guild Badge"/>
     <img src="https://img.shields.io/badge/LEVEL-99%20DEV-FF007F?style=for-the-badge" alt="Level Badge"/>
   </p>
 
-  <!-- Pixel Cat Coding Pet Widget -->
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="140" alt="Cat Coding Widget"/>
-  </p>
-
-  <!-- Social Comm Badges -->
+  <!-- Social Badges -->
   <p align="center">
     <a href="mailto:bagusganteng2443451@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -41,11 +40,12 @@
   
 </div>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### SYSTEM // ABOUT_USER
+### SYSTEM: ABOUT USER
 
 <table>
   <tr>
@@ -61,36 +61,50 @@
       </p>
       <hr/>
       <ul style="list-style-type: square;">
-        <li><b>// CLASS:</b> Student & Web Developer @ Enuma Tech</li>
-        <li><b>// LOCATION:</b> Central UNS (Kentingan, Jl. Ir. Sutami No.36A, Jebres, Surakarta, Jawa Tengah 57126)</li>
-        <li><b>// TIMEZONE:</b> UTC -12:00</li>
-        <li><b>// FOCUS:</b> Full-Stack Development, Cyber Security & UI/UX Engineering</li>
+        <li><b>CLASS:</b> Student & Web Developer @ Enuma Tech</li>
+        <li><b>LOCATION:</b> Central UNS (Kentingan, Jl. Ir. Sutami No.36A, Jebres, Surakarta, Jawa Tengah 57126)</li>
+        <li><b>TIMEZONE:</b> UTC -12:00</li>
+        <li><b>FOCUS:</b> Full-Stack Development, Cyber Security & UI/UX Engineering</li>
       </ul>
     </td>
   </tr>
 </table>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### HIGHLIGHTS // HALL_OF_FAME
+### HIGHLIGHTS: HALL OF FAME
 
 <div align="center">
-  <div style="border: 2px solid #FFD700; border-radius: 16px; padding: 8px; max-width: 480px; background: rgba(15, 23, 42, 0.9); box-shadow: 0 0 25px rgba(255, 215, 0, 0.4);">
-    <img src="./images/meandronaldo.jpeg" width="100%" style="border-radius: 12px;" alt="Krisna and CR7"/>
-    <br/>
-    <p style="margin-top: 10px; color: #FFD700; font-family: monospace; font-weight: bold; letter-spacing: 1px;">
-      [ CHAMPIONS LEAGUE LEVEL // MEETING THE GOAT (CR7) ]
-    </p>
-  </div>
+  <table>
+    <tr>
+      <td width="55%" align="center" valign="middle">
+        <div style="border: 2px solid #FFD700; border-radius: 16px; padding: 8px; background: rgba(15, 23, 42, 0.9); box-shadow: 0 0 25px rgba(255, 215, 0, 0.4);">
+          <img src="./images/meandronaldo.jpeg" width="100%" style="border-radius: 12px;" alt="Krisna and CR7"/>
+          <br/>
+          <p style="margin-top: 10px; color: #FFD700; font-family: monospace; font-weight: bold; letter-spacing: 1px;">
+            [ CHAMPIONS LEAGUE LEVEL: MEETING CR7 ]
+          </p>
+        </div>
+      </td>
+      <td width="45%" align="center" valign="middle">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="CR7 Golden Motion Visual"/>
+        <p style="color: #00F0FF; font-family: monospace; font-size: 13px; margin-top: 8px;">
+          SIUUU! GOAT MOMENT
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### ACHIEVEMENTS // SYSTEM_METRICS
+### ACHIEVEMENTS: SYSTEM METRICS
 
 <div align="center">
   <a href="https://github.com/krisnabagusr">
@@ -98,13 +112,14 @@
   </a>
 </div>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### MODULE // TECH_STACK_MATRIX
+### MODULE: TECH STACK MATRIX
 
-#### // FRONTEND & LANGUAGES
+#### FRONTEND & LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -113,7 +128,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
-#### // BACKEND & INFRASTRUCTURE
+#### BACKEND & INFRASTRUCTURE
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -122,21 +137,23 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### GAMEPLAY // CONTRIBUTION_SNAKE
+### GAMEPLAY: CONTRIBUTION SNAKE
 
 <div align="center">
   <img src="dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 </div>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### VISUALIZER // 3D_CONTRIBUTION_CITY
+### VISUALIZER: 3D CONTRIBUTION CITY
 
 <div align="center">
   <p><b>[ 3D ISOMETRIC CONTRIBUTION LANDSCAPE ]</b></p>
@@ -148,21 +165,23 @@
   <img src="github-metrics.svg" alt="GitHub Metrics 3D Visualizer" width="100%"/>
 </div>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### TELEMETRY // REALTIME_ACTIVITY_GRAPH
+### TELEMETRY: REALTIME ACTIVITY GRAPH
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krisnabagusr&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### ANALYTICS // GITHUB_STATS_OVERVIEW
+### ANALYTICS: GITHUB STATS OVERVIEW
 
 <div align="center">
   <table border="0">
@@ -181,11 +200,12 @@
   <img src="https://streak-stats.demolab.com/?user=krisnabagusr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="95%"/>
 </div>
 
+<!-- Retro Pacman Line Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
 </p>
 
-### NETWORK // COMM_LINK_TERMINAL
+### NETWORK: COMM LINK TERMINAL
 
 <div align="center">
 
@@ -204,5 +224,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=100&section=footer" width="100%" alt="Footer Banner"/>
   
-  <sub><i>SYSTEM // DESIGNED FOR KRISNA BAGUS RIYATNO</i></sub>
+  <sub><i>SYSTEM: DESIGNED FOR KRISNA BAGUS RIYATNO</i></sub>
 </div>
