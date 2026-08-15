@@ -1,19 +1,26 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=3b82f6&height=220&section=header&text=Krisna%20Bagus%20Riyatno&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=220&section=header&text=KRISNA%20BAGUS%20RIYATNO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Software+Engineering+Student;Web+Developer+%40+Enuma+Tech;Building+Modern+%26+Next-Gen+Web+Applications;Passionate+Full-Stack+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=SYSTEM+STATUS%3A+ONLINE;CLASS%3A+SOFTWARE+ENGINEER+%40+ENUMA+TECH;LEVEL%3A+99+FULL-STACK+DEV;PASSION%3A+NEXT-GEN+WEB+ARCHITECTURE" alt="Typing SVG" />
   </a>
 
-  <!-- Cat Typing Pet Widget -->
+  <!-- Gaming Rank Badges -->
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="Cat Coding Widget"/>
+    <img src="https://img.shields.io/badge/RANK-SSS%20SOFTWARE%20ENGINEER-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Rank Badge"/>
+    <img src="https://img.shields.io/badge/GUILD-ENUMA%20TECH-8A2BE2?style=for-the-badge" alt="Guild Badge"/>
+    <img src="https://img.shields.io/badge/LEVEL-99%20DEV-FF007F?style=for-the-badge" alt="Level Badge"/>
   </p>
 
-  <!-- Social Badges -->
+  <!-- Pixel Cat Coding Pet Widget -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="140" alt="Cat Coding Widget"/>
+  </p>
+
+  <!-- Social Comm Badges -->
   <p align="center">
     <a href="mailto:bagusganteng2443451@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -34,50 +41,56 @@
   
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### 👤 About Me
+### SYSTEM // ABOUT_USER
 
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="./images/INIGW.png" width="220" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" alt="Krisna Bagus Riyatno Photo"/>
+      <div style="border: 2px solid #00F0FF; border-radius: 16px; padding: 6px; background: rgba(15, 23, 42, 0.9); box-shadow: 0 0 20px rgba(0, 240, 255, 0.4);">
+        <img src="./images/INIGW.png" width="220" style="border-radius: 10px;" alt="Krisna Bagus Riyatno Photo"/>
+      </div>
     </td>
     <td width="65%" valign="top">
-      <h3>🚀 Hi there! I'm Krisna Bagus Riyatno 👋</h3>
+      <h3>SYSTEM OPERATOR: Krisna Bagus Riyatno</h3>
       <p>
-        I am a dedicated <b>Vocational High School Student</b> specializing in <b>Software Engineering and Web Development</b> at <b>Enuma Tech</b>. I have a passion for designing interactive, clean, and efficient web applications.
+        Software Engineering student specializing in Web Development at <b>Enuma Tech</b>. Dedicated to building high-performance, responsive web architectures and clean user interfaces.
       </p>
       <hr/>
-      <ul>
-        <li>💼 <b>Current Role:</b> Student & Web Developer @ Enuma Tech</li>
-        <li>📍 <b>Location:</b> Central UNS (Kentingan, Jl. Ir. Sutami No.36A, Jebres, Surakarta, Jawa Tengah 57126)</li>
-        <li>⏰ <b>Timezone:</b> UTC -12:00</li>
-        <li>🎯 <b>Interests:</b> Full-Stack Development, Modern UI/UX Design, Cyber Security & Open Source</li>
+      <ul style="list-style-type: square;">
+        <li><b>// CLASS:</b> Student & Web Developer @ Enuma Tech</li>
+        <li><b>// LOCATION:</b> Central UNS (Kentingan, Jl. Ir. Sutami No.36A, Jebres, Surakarta, Jawa Tengah 57126)</li>
+        <li><b>// TIMEZONE:</b> UTC -12:00</li>
+        <li><b>// FOCUS:</b> Full-Stack Development, Cyber Security & UI/UX Engineering</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### ⚽ Highlights & Special Moments
+### HIGHLIGHTS // HALL_OF_FAME
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100%">
-        <img src="./images/meandronaldo.jpeg" width="450" style="border-radius: 15px; border: 2px solid #38BDF8;" alt="Krisna and Ronaldo"/>
-        <br/>
-        <sub><b>🐐 Once in a Lifetime Moment: Hanging out with CR7 (Cristiano Ronaldo)!</b></sub>
-      </td>
-    </tr>
-  </table>
+  <div style="border: 2px solid #FFD700; border-radius: 16px; padding: 8px; max-width: 480px; background: rgba(15, 23, 42, 0.9); box-shadow: 0 0 25px rgba(255, 215, 0, 0.4);">
+    <img src="./images/meandronaldo.jpeg" width="100%" style="border-radius: 12px;" alt="Krisna and CR7"/>
+    <br/>
+    <p style="margin-top: 10px; color: #FFD700; font-family: monospace; font-weight: bold; letter-spacing: 1px;">
+      [ CHAMPIONS LEAGUE LEVEL // MEETING THE GOAT (CR7) ]
+    </p>
+  </div>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### 🏆 GitHub Achievements & Profile Summary
+### ACHIEVEMENTS // SYSTEM_METRICS
 
 <div align="center">
   <a href="https://github.com/krisnabagusr">
@@ -85,11 +98,13 @@
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### 🛠️ Tech Stack & Technologies (3D & Isometric Badges)
+### MODULE // TECH_STACK_MATRIX
 
-#### 🌐 Languages & Frontend Development
+#### // FRONTEND & LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -98,7 +113,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
-#### ⚙️ Backend, Database & Tools
+#### // BACKEND & INFRASTRUCTURE
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -107,43 +122,47 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### 🐍 Contribution Eating Snake Animation
-
-> Automatically rendered via GitHub Actions ([`.github/workflows/snake.yml`](.github/workflows/snake.yml))
+### GAMEPLAY // CONTRIBUTION_SNAKE
 
 <div align="center">
   <img src="dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### 🧱 3D Contribution Calendar & Isometric Visualizer
-
-> Automatically generated daily via GitHub Actions ([`.github/workflows/profile-3d.yml`](.github/workflows/profile-3d.yml) & [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml))
+### VISUALIZER // 3D_CONTRIBUTION_CITY
 
 <div align="center">
-  <p><b>🌆 3D Isometric Profile Contribution Graph</b></p>
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="Krisna Bagus Riyatno 3D Contribution Graph" width="100%"/>
+  <p><b>[ 3D ISOMETRIC CONTRIBUTION LANDSCAPE ]</b></p>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%"/>
   
   <br/><br/>
   
-  <p><b>📊 Low-Poly Isometric Metrics & Language Breakdown</b></p>
+  <p><b>[ LOW-POLY METRICS & LANGUAGE DISTRIBUTION ]</b></p>
   <img src="github-metrics.svg" alt="GitHub Metrics 3D Visualizer" width="100%"/>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### 📈 Real-Time Activity Graph & Coding Habits
+### TELEMETRY // REALTIME_ACTIVITY_GRAPH
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krisnabagusr&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### 📊 GitHub Analytics & Streak Stats (Fixed Endpoints)
+### ANALYTICS // GITHUB_STATS_OVERVIEW
 
 <div align="center">
   <table border="0">
@@ -159,30 +178,31 @@
   
   <br/>
   
-  <!-- Fixed Streak Stats Endpoint using Demolab Mirror -->
   <img src="https://streak-stats.demolab.com/?user=krisnabagusr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="95%"/>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=20&section=footer" width="100%" alt="Separator"/>
+</p>
 
-### 📬 Connect With Me
+### NETWORK // COMM_LINK_TERMINAL
 
 <div align="center">
 
-| Platform | Link |
+| TERMINAL | ADDRESS |
 | :--- | :--- |
-| 📧 **Email** | [bagusganteng2443451@gmail.com](mailto:bagusganteng2443451@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/krisna-bagus-70a439378](https://www.linkedin.com/in/krisna-bagus-70a439378/) |
-| 🐦 **X (Twitter)** | [@RaptorCF1](https://x.com/RaptorCF1) |
-| 🎥 **YouTube** | [@RaptorOfficial-b5p](https://www.youtube.com/@RaptorOfficial-b5p) |
-| 🎵 **TikTok** | [@.official0194](https://tiktok.com/@.official0194) |
+| **EMAIL** | [bagusganteng2443451@gmail.com](mailto:bagusganteng2443451@gmail.com) |
+| **LINKEDIN** | [linkedin.com/in/krisna-bagus-70a439378](https://www.linkedin.com/in/krisna-bagus-70a439378/) |
+| **X (TWITTER)** | [@RaptorCF1](https://x.com/RaptorCF1) |
+| **YOUTUBE** | [@RaptorOfficial-b5p](https://www.youtube.com/@RaptorOfficial-b5p) |
+| **TIKTOK** | [@.official0194](https://tiktok.com/@.official0194) |
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=3b82f6&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF007F&height=100&section=footer" width="100%" alt="Footer Banner"/>
   
-  <sub><i>Designed with ❤️ for Krisna Bagus Riyatno's GitHub Profile</i></sub>
+  <sub><i>SYSTEM // DESIGNED FOR KRISNA BAGUS RIYATNO</i></sub>
 </div>
