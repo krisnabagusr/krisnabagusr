@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/LEVEL-99%20DEV-FF007F?style=for-the-badge" alt="Level Badge"/>
   </p>
 
-  <!-- 3D Octocat Mascot -->
+  <!-- Animated Cat & Octocat Mascots -->
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="3D Octocat Mascot"/>
+    <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/footers/cat.gif" width="260" alt="Animated Pixel Cat Mascot"/>
   </p>
 
   <!-- Social Badges -->
@@ -87,6 +87,30 @@
 <b>Timezone</b>: UTC -12:00
 <b>Memory</b>: 64GB / Unlimited Creativity
         </pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Retro Pacman Line Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-42cf-92e6-14281e550713.gif" width="100%" alt="Pacman Pixel Separator"/>
+</p>
+
+### MASCOT: CAT CODING PET TERMINAL
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-ppuccin/main/assets/footers/cat.gif" width="280" alt="Animated Pixel Cat Typing"/>
+        <br/>
+        <p style="color: #00F0FF; font-family: monospace; font-size: 13px; margin-top: 8px;"><b>CAT MASCOT: KEYBOARD OPERATOR</b></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="3D Octocat Developer"/>
+        <br/>
+        <p style="color: #FF007F; font-family: monospace; font-size: 13px; margin-top: 8px;"><b>OCTOCAT: 3D DEV MASCOT</b></p>
       </td>
     </tr>
   </table>
